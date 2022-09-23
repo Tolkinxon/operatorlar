@@ -6,3 +6,4 @@ number = number + 5;
 
 console.log(number);
 
+let a = " hello world";
